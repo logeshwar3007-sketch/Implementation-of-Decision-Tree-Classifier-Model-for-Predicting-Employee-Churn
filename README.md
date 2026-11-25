@@ -14,12 +14,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. Find the accuracy score
 
 ## Program:
+```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 Developed by: S LOGESHWAR
 RegisterNumber:  212225040204
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
